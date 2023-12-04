@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gokul Sujan</h1>
-<h3 align="center">A passionate GO developer</h3>
+<h3 align="center">A passionate Software developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
