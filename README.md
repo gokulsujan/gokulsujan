@@ -13,8 +13,6 @@
 <p align="left">
 <a href="https://twitter.com/gokulsujan5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gokulsujan5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gokulsujan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokulsujan" height="30" width="40" /></a>
-<a href="https://fb.com/iamgokulsujan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamgokulsujan" height="30" width="40" /></a>
-<a href="https://instagram.com/gokul.sujan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gokul.sujan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gokulsujan03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gokulsujan03" height="30" width="40" /></a>
 </p>
 
