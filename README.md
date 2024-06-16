@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gokul Sujan</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on [Labsmart](https://www.labsmartlis.com/)
+- 🔭 I’m currently working freelancer
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://gokulsujan.me](https://gokulsujan.me)
 
