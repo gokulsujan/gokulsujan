@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working freelancer
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Java Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://gokulsujan.me](https://gokulsujan.me)
 
