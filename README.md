@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gokulsujan.me](https://gokulsujan.me)
 
-- 📫 How to reach me **info@gokulsujan.me**
+- 📫 How to reach me **gokulsujan.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
